@@ -2,7 +2,7 @@
 ## Overview:
 The freshmen at Thomas High School were caught cheating. Maria has a dataset of stutent data that she needs to remove the freshmen scores and recalculate the overall scores. Her job is also to keep the rest of the data in tact and note the changes.<br>
 
-After removing the freshmen scores, the school's overall percentages needed to be recalculated. <br>
+After removing the freshmen scores, the school's overall passing percentages needed to be recalculated. <br>
 ![before](https://github.com/James-Harkin/School_District_Analysis/blob/main/Resources/images/ThomasBefore.png?)
 # Results:
 * Thomas High School had all of their 9th grade scores removed. Here is a comparison of the actual change.
