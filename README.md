@@ -5,7 +5,7 @@ The freshmen at Thomas High School were caught cheating. Maria has a dataset of 
 After removing the freshmen scores, the school's overall passing percentages needed to be recalculated. <br>
 ![before](https://github.com/James-Harkin/School_District_Analysis/blob/main/Resources/images/ThomasBefore.png?)
 # Results:
-* Thomas High School had all of their 9th grade scores removed. Here is a comparison of the actual change.
+* Thomas High School had all of their 9th grade scores removed. Here is the impact the fresmen had on the total:
 * * An overall pass rate of 93.27% in Math for the school dropped to 93.19%
 * * Overall pass rate for reading was 97.30% and dropped to 97.02%	
 * * And overall for both went from 90.94% to 90.63% <br>
